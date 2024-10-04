@@ -1,19 +1,19 @@
 # 👋 Bienvenue sur mon profil GitHub !
 
-## 🧑‍💻 À propos de moi
+<ins> 🧑‍💻 À propos de moi</ins>
 
 Je suis actuellement étudiant en **Développement et Conception Web & Application** à L'IDEM. Passionné par la biologie et l'informatique, je vise à devenir **bio-informaticien** dans le futur. Pour l'instant, je commence tout juste mon parcours de développeur, et je maîtrise les bases du **HTML**.
 
 ---
 
-## 🌱 Ce que j'apprends en ce moment
+<ins> 🌱 Ce que j'apprends en ce moment</ins>
 
 - **HTML** : Je me concentre sur les bases du développement web.
 - 🔍 En cours : Explorer d'autres langages et technologies pour développer mes compétences.
 
 ---
 
-## 🎯 Objectifs futurs
+<ins> 🎯 Objectifs futurs</ins>
 
 - 📚 Apprendre les langages de programmation tels que **Python**, **JavaScript** et plus encore.
 - 🔬 Utiliser mes connaissances en biologie pour créer des solutions innovantes en **bio-informatique**.
@@ -21,7 +21,7 @@ Je suis actuellement étudiant en **Développement et Conception Web & Applicati
 
 ---
 
-## 🛠️ Compétences techniques actuelles
+<ins> 🛠️ Compétences techniques actuelles</ins>
 
 - **HTML** : Langage de balisage pour la création de sites web.
   
@@ -29,13 +29,13 @@ Je suis au début de mon parcours, mais chaque jour est une nouvelle opportunit�
 
 ---
 
-## 🚀 Projets à venir
+<ins> 🚀 Projets à venir</ins>
 
 Je posterai ici des projets au fur et à mesure que j'évoluerai dans le développement web et bio-informatique. Restez connectés !
 
 ---
 
-## 📫 Me contacter
+<ins> 📫 Me contacter</ins>
 
 - **Email** : [sensitompro@gmail.com](mailto:sensitom@gmail.com)
 - **LinkedIn** : [Tom Sensi](linkedin.com/in/tom-sensi-27b774251)

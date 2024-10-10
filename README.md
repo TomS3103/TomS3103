@@ -1,8 +1,8 @@
 # 👋 Bienvenue sur mon profil GitHub !
 
-<h3><ins> 🧑‍💻 À propos de moi</ins></h3>
-
-Je suis actuellement étudiant en **Développement et Conception Web & Application** à L'IDEM. Passionné par la biologie et l'informatique, je vise à devenir **bio-informaticien** dans le futur. Pour l'instant, je commence tout juste mon parcours de développeur, et je maîtrise les bases du **HTML**.
+<h3><ins> 🧬 Qui suis-je ? </ins><h3>
+  
+Salut ! Je m'appelle **Tom Sensi**, un étudiant passionné à L'IDEM en **Développement Web & Application**, avec une solide formation en biologie (ancien élève en BTS BIOAC). Mon rêve ? Devenir **bio-informaticien** et fusionner mes compétences en biologie et informatique pour créer des solutions novatrices. Actuellement, je fais mes premiers pas dans le monde du développement, avec une bonne maîtrise des bases du **HTML**.
 
 ---
 
@@ -17,7 +17,7 @@ Je suis actuellement étudiant en **Développement et Conception Web & Applicati
 
 - 📚 Apprendre les langages de programmation tels que **Python**, **JavaScript** et plus encore.
 - 🔬 Utiliser mes connaissances en biologie pour créer des solutions innovantes en **bio-informatique**.
-- 💻 Développer des projets qui combinent la science et la technologie.
+- 💻 Contribuer à des projets où science et technologie s'entremêlent pour créer un impact réel.
 
 ---
 

@@ -31,7 +31,7 @@ Je suis au début de mon parcours, mais chaque jour est une nouvelle opportunit�
 
 <h3><ins> 🚀 Projets à venir</ins></h3>
 
-Je posterai ici des projets au fur et à mesure que j'évoluerai dans le développement web et bio-informatique. Restez connectés !
+Je posterai ici des projets au fur et à mesure que j'évoluerai dans le développement web et bio-informatique.
 
 ---
 
